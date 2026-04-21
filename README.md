@@ -47,6 +47,4 @@ I come from an ECE background but developed a strong interest in software develo
 I enjoy solving problems and building simple, useful web applications.
 Currently improving my skills in full stack development.
 
----
 
-⭐ Consistent learning is my strength
